@@ -124,9 +124,3 @@ python3 scraper.py
 - Schedule via cron job for daily data updates
 
 ---
-
-## 👤 Author
-
-**Vatsal Ribadiya**  
-Full Stack Developer | Data Engineering Enthusiast  
-[LinkedIn](https://linkedin.com/in/vatsalribadiya) · [GitHub](https://github.com/vatsalribadiya)
